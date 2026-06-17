@@ -45,7 +45,7 @@ export default function OwnerDashboard() {
         <h2>My Store</h2>
       </div>
 
-      
+      {/* Store summary card */}
       <div className="card" style={{ marginBottom: 24 }}>
         <div className="card-body">
           <div style={{ display: 'flex', gap: 40, flexWrap: 'wrap' }}>
