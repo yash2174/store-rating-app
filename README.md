@@ -80,7 +80,7 @@ npm start                    # Starts on http://localhost:3000
 | Field    | Value                    |
 |----------|--------------------------|
 | Email    | admin@storerating.com    |
-| Password | password                 |
+| Password | Admin@123                |
 
 > **Note:** The seed password hash in `001_init.sql` is for the string `password`. Change it immediately after first login.
 
